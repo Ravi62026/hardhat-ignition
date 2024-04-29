@@ -20,12 +20,3 @@ You'll need:
 - Basic knowledge of Ethereum smart contract development
 - Familiarity with JavaScript/TypeScript
 
-## Getting Started
-
-Just follow the video tutorial. If you stuck with some files, come here to copy paste the file to fix your error. Also check out the step-by-step guide.
-
-
-For questions: drysoftware1@gmail.com
-
-
-Abdulhakim Luanda, 2024
